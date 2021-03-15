@@ -7,11 +7,11 @@
 
 #heading {
     display: flex;
-    color: aqua: 
-    margin-top: 30px; 
+    color: aqua;
+    margin-top:30px; 
     padding-left: 10px; 
     font-size: 30px; 
-    font-family: Arial, Helvetica, sans-serif; 
+    font-family:Arial, Helvetica, sans-serif; 
     
 } 
 
@@ -116,9 +116,6 @@ ul {
   
 } 
 
-#caption {
-     color ;
-}
 
 .contact li {
     color: yellow; 
