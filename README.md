@@ -47,7 +47,6 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Screenshot 
-![Developing-Portfolio-homework](https://user-images.githubusercontent.com/76064980/111099523-10101500-851c-11eb-82ca-99fffd7e2022.png)
 
 ---
 
