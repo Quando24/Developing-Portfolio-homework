@@ -1,0 +1,133 @@
+* {
+    display: flex; 
+    flex-direction: column; 
+    justify-content:flex-start; 
+    align-content: flex-start;
+}
+
+#heading {
+    display: flex;
+    color: aqua: 
+    margin-top: 30px; 
+    padding-left: 10px; 
+    font-size: 30px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    
+} 
+
+body {
+    background-color: black
+}
+
+p {
+    display: flex;
+    font-size: 18px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex; 
+    flex-direction: row-reverse;
+    list-style-type: none; 
+    justify-content: flex-start; 
+} 
+
+.navigation a { 
+    list-style: none; 
+    display: flex;
+    float: right; 
+    text-align: center; 
+    font-size: 25px; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px; 
+    top: 20px;
+    padding: 20px; 
+    background-color: black; 
+    color: aqua; 
+} 
+
+#navpicture { 
+        margin-top: 100px; 
+        border-right: 50px;
+        height: 10px; 
+} 
+
+#navpicture img {
+        width: 2000px; 
+        height: 200px; 
+        image-resolution:inherit; 
+        justify-content: flex-start;
+}
+
+#aboutme { 
+        display: flex;
+        color: forestgreen;
+       width: 50px;
+        border-width: 5px; 
+        line-height: 40px; 
+        margin-top: 200px;
+        border-right-style: solid; 
+        border-right-color: chartreuse;
+}
+
+#Work { 
+    display: flex;
+    margin-top: 200px; 
+    margin-bottom: 180px;
+    color: forestgreen; 
+    width: 50px;
+    border-width: 5px; 
+    line-height: 10px;
+     border-right-style: solid; 
+     border-right-color: chartreuse;
+} 
+
+
+#contactme { 
+    justify-content: flex-start;
+    margin-bottom: -500px;
+    color: forestgreen; 
+    width: 60px;
+    border-width: 5px; 
+    line-height: 30px;
+    border-right-style: solid; 
+    border-right-color: chartreuse;
+}
+#Biography { 
+    display: flex;
+    text-align: center; 
+   margin-left: 400px; 
+   margin-top: -30px; 
+   width: 650px; 
+   display: inline-block;
+    color: blanchedalmond; 
+    
+    
+} 
+
+.Photos img {
+    margin-bottom: 160px;  
+    height: 450px; 
+    width: auto; 
+    margin-left: 500px; 
+    margin-right: auto;
+    border: 5px;
+    border-color: blue;
+  
+} 
+
+#caption {
+     color ;
+}
+
+.contact li {
+    color: yellow; 
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex; 
+    flex-direction: column;
+    text-align: center;
+    float: right;
+     margin-top: 450px;
+    margin-right: 120px;
+    padding: 10px; 
+}
